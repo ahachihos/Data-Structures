@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.module": "php",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "initializer_list": "cpp"
+    }
+}
